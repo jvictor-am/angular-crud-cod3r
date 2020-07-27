@@ -11,3 +11,5 @@ ng add @angular/material
  ng g c components/template/footer
 
  ng g c components/template/nav
+
+ ng g c views/home
