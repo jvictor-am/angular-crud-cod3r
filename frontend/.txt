@@ -13,3 +13,7 @@ ng add @angular/material
  ng g c components/template/nav
 
  ng g c views/home
+
+ ng g c views/product-crud
+
+ 
