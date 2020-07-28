@@ -16,4 +16,6 @@ ng add @angular/material
 
  ng g c views/product-crud
 
- 
+ ng g d directives/red
+
+ ng g d directives/for
