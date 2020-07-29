@@ -21,3 +21,5 @@ ng add @angular/material
  ng g d directives/for
 
  ng g c components/product/product-create
+
+ ng g s components/product/product
