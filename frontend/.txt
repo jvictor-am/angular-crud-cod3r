@@ -19,3 +19,5 @@ ng add @angular/material
  ng g d directives/red
 
  ng g d directives/for
+
+ ng g c components/product/product-create
